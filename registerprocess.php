@@ -3,8 +3,8 @@ error_reporting(E_ALL);
 ini_set('display_errors',1);
 //connection info
 $DATABASE_HOST = 'localhost';
-$DATABASE_USER = 'jblap';
-$DATABASE_PASS = 'Otters!2';
+$DATABASE_USER = 'redacted';
+$DATABASE_PASS = 'redacted';
 $DATABASE_NAME = 'firstdatabase';
 
 //attempting connection with above info
