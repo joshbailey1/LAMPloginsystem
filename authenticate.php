@@ -2,8 +2,8 @@
 session_start();
 //Connection info
 $DATABASE_HOST = 'localhost';
-$DATABASE_USER = 'jblap';
-$DATABASE_PASS = 'Otters!2';
+$DATABASE_USER = 'redacted';
+$DATABASE_PASS = 'redacted';
 $DATABASE_NAME = 'firstdatabase';
 
 $con = mysqli_connect($DATABASE_HOST, $DATABASE_USER, $DATABASE_PASS, $DATABASE_NAME);
